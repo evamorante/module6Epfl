@@ -1,3 +1,4 @@
+//Exercise 05. in module 6
 // This function takes a boolean parameter
 // that says if password was entered correctly
 // (true = yes, false = no)
